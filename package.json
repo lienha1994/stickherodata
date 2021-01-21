@@ -14,7 +14,7 @@
     "load-json-file": "^6.2.0",
     "mongoose": "^5.8.3",
     "shortid": "2.2.6",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
